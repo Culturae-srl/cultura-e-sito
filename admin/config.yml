@@ -1,0 +1,42 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "projects/uploads"
+public_folder: "projects/uploads"
+
+locale: it
+
+collections:
+  - name: "portfolio"
+    label: "Portfolio Progetti"
+    label_singular: "Progetto"
+    files:
+      - name: "lista"
+        label: "Lista Progetti"
+        file: "_data/portfolio.json"
+        fields:
+          - label: "Progetti"
+            name: "progetti"
+            widget: "list"
+            label_singular: "Progetto"
+            fields:
+              - { label: "Nome Progetto", name: "name", widget: "string" }
+              - { label: "Anno", name: "year", widget: "select", options: ["2022","2023","2024","2025","2026"] }
+              - { label: "Immagine Copertina", name: "cover", widget: "image" }
+              - label: "Tutte le Immagini"
+                name: "images"
+                widget: "list"
+                field: { label: "Immagine", name: "image", widget: "image" }
+
+  - name: "impostazioni"
+    label: "Impostazioni Sito"
+    files:
+      - name: "contatti"
+        label: "Informazioni di Contatto"
+        file: "_data/contatti.json"
+        fields:
+          - { label: "Telefono", name: "telefono", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Indirizzo", name: "indirizzo", widget: "string" }
+          - { label: "Orari", name: "orari", widget: "string" }

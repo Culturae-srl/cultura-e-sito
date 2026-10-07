@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /info/
+Sitemap: https://www.cultura-e.it/sitemap.xml

@@ -1,0 +1,185 @@
+{
+  "progetti": [
+    {
+      "name": "La Città dei Bambini e dei Ragazzi",
+      "year": "2022",
+      "cover": "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.01.50.jpg",
+      "images": [
+        "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.01.50.jpg",
+        "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.02.12.jpg",
+        "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.02.39.jpg",
+        "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.02.51.jpg",
+        "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.03.22.jpg",
+        "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.03.38.jpg",
+        "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.03.53.jpg",
+        "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.04.07.jpg",
+        "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.04.21.jpg",
+        "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.04.45.jpg",
+        "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.04.54.jpg",
+        "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.05.11.jpg",
+        "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/Screenshot%202026-09-13%20at%2015.06.35.jpg"
+      ]
+    },
+    {
+      "name": "Fendi",
+      "year": "2022",
+      "cover": "projects/2022/Fendi/Screenshot%202026-09-13%20at%2016.37.25.jpg",
+      "images": [
+        "projects/2022/Fendi/Screenshot%202026-09-13%20at%2016.37.25.jpg",
+        "projects/2022/Fendi/Screenshot%202026-09-13%20at%2016.37.42.jpg",
+        "projects/2022/Fendi/Screenshot%202026-09-13%20at%2016.38.01.jpg",
+        "projects/2022/Fendi/Screenshot%202026-09-13%20at%2016.38.18.jpg",
+        "projects/2022/Fendi/Screenshot%202026-09-13%20at%2016.38.33.jpg",
+        "projects/2022/Fendi/Screenshot%202026-09-13%20at%2016.38.42.jpg"
+      ]
+    },
+    {
+      "name": "Gatto con gli Stivali 2",
+      "year": "2022",
+      "cover": "projects/2022/Gatto%20con%20gli%20Stivali%202/Screenshot%202026-09-13%20at%2018.25.35.jpg",
+      "images": [
+        "projects/2022/Gatto%20con%20gli%20Stivali%202/Screenshot%202026-09-13%20at%2018.25.35.jpg",
+        "projects/2022/Gatto%20con%20gli%20Stivali%202/Screenshot%202026-09-13%20at%2018.25.49.jpg",
+        "projects/2022/Gatto%20con%20gli%20Stivali%202/Screenshot%202026-09-13%20at%2018.26.00.jpg",
+        "projects/2022/Gatto%20con%20gli%20Stivali%202/Screenshot%202026-09-13%20at%2018.26.10.jpg",
+        "projects/2022/Gatto%20con%20gli%20Stivali%202/Screenshot%202026-09-13%20at%2018.26.22.jpg",
+        "projects/2022/Gatto%20con%20gli%20Stivali%202/Screenshot%202026-09-13%20at%2018.26.31.jpg"
+      ]
+    },
+    {
+      "name": "Presepe Piazza di Spagna",
+      "year": "2022",
+      "cover": "projects/2022/Presepe%20Piazza%20di%20Spagna/Screenshot%202026-09-13%20at%2018.27.20.jpg",
+      "images": [
+        "projects/2022/Presepe%20Piazza%20di%20Spagna/Screenshot%202026-09-13%20at%2018.27.20.jpg",
+        "projects/2022/Presepe%20Piazza%20di%20Spagna/Screenshot%202026-09-13%20at%2018.27.30.jpg"
+      ]
+    },
+    {
+      "name": "Bulgari",
+      "year": "2023",
+      "cover": "projects/2023/Bulgari/Screenshot%202026-09-13%20at%2018.24.25.jpg",
+      "images": [
+        "projects/2023/Bulgari/Screenshot%202026-09-13%20at%2018.24.25.jpg",
+        "projects/2023/Bulgari/Screenshot%202026-09-13%20at%2018.24.36.jpg",
+        "projects/2023/Bulgari/Screenshot%202026-09-13%20at%2018.24.48.jpg",
+        "projects/2023/Bulgari/Screenshot%202026-09-13%20at%2018.24.58.jpg"
+      ]
+    },
+    {
+      "name": "Bulldog",
+      "year": "2023",
+      "cover": "projects/2023/Bulldog/Screenshot%202026-09-13%20at%2018.29.38.jpg",
+      "images": [
+        "projects/2023/Bulldog/Screenshot%202026-09-13%20at%2018.29.38.jpg",
+        "projects/2023/Bulldog/Screenshot%202026-09-13%20at%2018.29.47.jpg",
+        "projects/2023/Bulldog/Screenshot%202026-09-13%20at%2018.29.59.jpg",
+        "projects/2023/Bulldog/Screenshot%202026-09-13%20at%2018.30.06.jpg"
+      ]
+    },
+    {
+      "name": "Presentazione Film — Prendi il Volo",
+      "year": "2023",
+      "cover": "projects/2023/Presentazione%20Film%20-%20Prendi%20il%20Volo/Screenshot%202026-09-13%20at%2018.28.28.jpg",
+      "images": [
+        "projects/2023/Presentazione%20Film%20-%20Prendi%20il%20Volo/Screenshot%202026-09-13%20at%2018.28.28.jpg",
+        "projects/2023/Presentazione%20Film%20-%20Prendi%20il%20Volo/Screenshot%202026-09-13%20at%2018.28.37.jpg",
+        "projects/2023/Presentazione%20Film%20-%20Prendi%20il%20Volo/Screenshot%202026-09-13%20at%2018.28.51.jpg",
+        "projects/2023/Presentazione%20Film%20-%20Prendi%20il%20Volo/Screenshot%202026-09-13%20at%2018.29.00.jpg"
+      ]
+    },
+    {
+      "name": "Produzione Karaoke",
+      "year": "2023",
+      "cover": "projects/2023/Produzione%20Karaoke/Screenshot%202026-09-13%20at%2018.30.41.jpg",
+      "images": [
+        "projects/2023/Produzione%20Karaoke/Screenshot%202026-09-13%20at%2018.30.41.jpg",
+        "projects/2023/Produzione%20Karaoke/Screenshot%202026-09-13%20at%2018.30.50.jpg",
+        "projects/2023/Produzione%20Karaoke/Screenshot%202026-09-13%20at%2018.31.00.jpg",
+        "projects/2023/Produzione%20Karaoke/Screenshot%202026-09-13%20at%2018.31.10.jpg",
+        "projects/2023/Produzione%20Karaoke/Screenshot%202026-09-13%20at%2018.31.18.jpg"
+      ]
+    },
+    {
+      "name": "Cartier",
+      "year": "2024",
+      "cover": "projects/2024/Cartier/Screenshot%202026-09-13%20at%2018.31.54.jpg",
+      "images": [
+        "projects/2024/Cartier/Screenshot%202026-09-13%20at%2018.31.54.jpg",
+        "projects/2024/Cartier/Screenshot%202026-09-13%20at%2018.32.04.jpg",
+        "projects/2024/Cartier/Screenshot%202026-09-13%20at%2018.32.14.jpg",
+        "projects/2024/Cartier/Screenshot%202026-09-13%20at%2018.32.21.jpg",
+        "projects/2024/Cartier/Screenshot%202026-09-13%20at%2018.32.30.jpg",
+        "projects/2024/Cartier/Screenshot%202026-09-13%20at%2018.32.37.jpg",
+        "projects/2024/Cartier/Screenshot%202026-09-13%20at%2018.32.46.jpg",
+        "projects/2024/Cartier/Screenshot%202026-09-13%20at%2018.32.53.jpg"
+      ]
+    },
+    {
+      "name": "Glo",
+      "year": "2024",
+      "cover": "projects/2024/Glo/Screenshot%202026-09-13%20at%2018.37.24.jpg",
+      "images": [
+        "projects/2024/Glo/Screenshot%202026-09-13%20at%2018.37.24.jpg",
+        "projects/2024/Glo/Screenshot%202026-09-13%20at%2018.37.33.jpg",
+        "projects/2024/Glo/Screenshot%202026-09-13%20at%2018.37.40.jpg",
+        "projects/2024/Glo/Screenshot%202026-09-13%20at%2018.37.48.jpg",
+        "projects/2024/Glo/Screenshot%202026-09-13%20at%2018.37.54.jpg"
+      ]
+    },
+    {
+      "name": "New Balance",
+      "year": "2024",
+      "cover": "projects/2024/New%20Balance/Screenshot%202026-09-13%20at%2018.36.33.jpg",
+      "images": [
+        "projects/2024/New%20Balance/Screenshot%202026-09-13%20at%2018.36.33.jpg",
+        "projects/2024/New%20Balance/Screenshot%202026-09-13%20at%2018.36.40.jpg",
+        "projects/2024/New%20Balance/Screenshot%202026-09-13%20at%2018.36.48.jpg",
+        "projects/2024/New%20Balance/Screenshot%202026-09-13%20at%2018.36.56.jpg"
+      ]
+    },
+    {
+      "name": "Peroni",
+      "year": "2024",
+      "cover": "projects/2024/Peroni/Screenshot%202026-09-13%20at%2018.38.30.jpg",
+      "images": [
+        "projects/2024/Peroni/Screenshot%202026-09-13%20at%2018.38.30.jpg",
+        "projects/2024/Peroni/Screenshot%202026-09-13%20at%2018.38.38.jpg",
+        "projects/2024/Peroni/Screenshot%202026-09-13%20at%2018.38.48.jpg",
+        "projects/2024/Peroni/Screenshot%202026-09-13%20at%2018.38.59.jpg"
+      ]
+    },
+    {
+      "name": "RAFFO",
+      "year": "2024",
+      "cover": "projects/2024/RAFFO/Screenshot%202026-09-13%20at%2018.35.29.jpg",
+      "images": [
+        "projects/2024/RAFFO/Screenshot%202026-09-13%20at%2018.35.29.jpg",
+        "projects/2024/RAFFO/Screenshot%202026-09-13%20at%2018.35.36.jpg",
+        "projects/2024/RAFFO/Screenshot%202026-09-13%20at%2018.35.44.jpg",
+        "projects/2024/RAFFO/Screenshot%202026-09-13%20at%2018.35.55.jpg",
+        "projects/2024/RAFFO/Screenshot%202026-09-13%20at%2018.36.03.jpg"
+      ]
+    },
+    {
+      "name": "Teatrino Topo Gigio RAI",
+      "year": "2024",
+      "cover": "projects/2024/Teatrino%20Topo%20Gigio%20RAI/Screenshot%202026-09-13%20at%2018.34.32.jpg",
+      "images": [
+        "projects/2024/Teatrino%20Topo%20Gigio%20RAI/Screenshot%202026-09-13%20at%2018.34.32.jpg",
+        "projects/2024/Teatrino%20Topo%20Gigio%20RAI/Screenshot%202026-09-13%20at%2018.34.39.jpg",
+        "projects/2024/Teatrino%20Topo%20Gigio%20RAI/Screenshot%202026-09-13%20at%2018.34.54.jpg"
+      ]
+    },
+    {
+      "name": "Toy Room",
+      "year": "2024",
+      "cover": "projects/2024/Toy%20Room/Screenshot%202026-09-13%20at%2018.33.35.jpg",
+      "images": [
+        "projects/2024/Toy%20Room/Screenshot%202026-09-13%20at%2018.33.35.jpg",
+        "projects/2024/Toy%20Room/Screenshot%202026-09-13%20at%2018.33.44.jpg",
+        "projects/2024/Toy%20Room/Screenshot%202026-09-13%20at%2018.33.54.jpg"
+      ]
+    }
+  ]
+}
