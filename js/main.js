@@ -140,6 +140,7 @@
       'contact.form.ph.cognome': 'Il tuo cognome',
       'contact.form.ph.email':   'nome@azienda.it',
       'contact.form.ph.project': 'Tipo di evento, location, dimensioni approssimative, tempistiche...',
+      'contact.form.privacy':    'Ho letto e accetto la <a href="privacy.html" target="_blank">Privacy Policy</a> e acconsento al trattamento dei miei dati personali ai sensi del GDPR.',
     },
 
     en: {
@@ -279,6 +280,7 @@
       'contact.form.ph.cognome': 'Your last name',
       'contact.form.ph.email':   'name@company.com',
       'contact.form.ph.project': 'Event type, location, approximate dimensions, timeline...',
+      'contact.form.privacy':    'I have read and accept the <a href="privacy.html" target="_blank">Privacy Policy</a> and consent to the processing of my personal data under GDPR.',
     }
   };
 

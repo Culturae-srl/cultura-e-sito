@@ -1713,3 +1713,29 @@ footer.footer-full .footer-links ul li a:hover { color: var(--white); }
   .values-section { padding: 56px 24px; }
   #chi-siamo.page-about .about-text-col { padding: 48px 24px; }
 }
+
+/* ── Privacy checkbox ───────────────────────────────────────────────────── */
+.form-group--privacy { margin-top: 4px; margin-bottom: 20px; }
+.privacy-check-label {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  cursor: pointer;
+}
+.privacy-check-label input[type="checkbox"] {
+  flex-shrink: 0;
+  width: 18px;
+  height: 18px;
+  margin-top: 2px;
+  accent-color: var(--red);
+  cursor: pointer;
+}
+.privacy-check-label span {
+  font-size: 13px;
+  color: rgba(255,255,255,0.6);
+  line-height: 1.6;
+}
+.privacy-check-label span a {
+  color: var(--red);
+  text-decoration: underline;
+}
