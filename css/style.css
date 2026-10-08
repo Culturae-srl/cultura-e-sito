@@ -882,8 +882,10 @@ section { padding: 100px 80px; }
 
 .clienti-grid {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   gap: 12px;
+  max-width: 1100px;
+  margin: 0 auto;
 }
 
 .client-card {
