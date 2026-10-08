@@ -275,7 +275,7 @@
           filterBtns.forEach(function (b) { b.classList.remove('active'); });
           btn.classList.add('active');
           var filter = btn.getAttribute('data-filter');
-          items.forEach(function (item) {
+          document.querySelectorAll('.portfolio-item').forEach(function (item) {
             item.classList.toggle('hidden', filter !== 'all' && item.getAttribute('data-year') !== filter);
           });
         });
@@ -320,8 +320,10 @@
         showLbImage();
       }
 
-      items.forEach(function (item) {
-        item.addEventListener('click', function () { openProject(item); });
+      /* Event delegation — works even when items are loaded async via fetch */
+      document.getElementById('portfolioGrid').addEventListener('click', function (e) {
+        var item = e.target.closest('.portfolio-item');
+        if (item) openProject(item);
       });
 
       document.getElementById('lbClose').addEventListener('click', closeLb);
