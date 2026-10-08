@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pagina non trovata — Cultura è...</title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="icon" href="images/logos/logo.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;900&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .error-wrap {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--near-black);
+      padding: 40px 24px;
+      text-align: center;
+    }
+    .error-box { max-width: 560px; }
+    .error-code {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 120px;
+      font-weight: 900;
+      color: var(--red);
+      line-height: 1;
+      margin-bottom: 8px;
+      opacity: 0.8;
+    }
+    .error-box h1 {
+      font-size: 28px;
+      color: var(--white);
+      margin-bottom: 16px;
+      letter-spacing: -0.5px;
+    }
+    .error-box p {
+      font-size: 15px;
+      color: rgba(255,255,255,0.5);
+      line-height: 1.7;
+      margin-bottom: 40px;
+    }
+    .error-links {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+  </style>
+</head>
+<body>
+  <div class="error-wrap">
+    <div class="error-box">
+      <div class="error-code">404</div>
+      <h1>Pagina non trovata</h1>
+      <p>La pagina che stai cercando non esiste o è stata spostata.<br>Torna alla homepage o esplora il nostro lavoro.</p>
+      <div class="error-links">
+        <a href="index.html" class="btn-primary">Torna alla Home</a>
+        <a href="portfolio.html" class="btn-outline">Vedi il Portfolio</a>
+        <a href="contatti.html" class="btn-outline">Contattaci</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
