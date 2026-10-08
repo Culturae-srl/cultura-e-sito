@@ -26,8 +26,14 @@
   </url>
   <url>
     <loc>https://www.cultura-e.it/contatti.html</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.cultura-e.it/privacy.html</loc>
+    <lastmod>2026-10-08</lastmod>
+    <priority>0.3</priority>
     <changefreq>yearly</changefreq>
   </url>
 </urlset>
