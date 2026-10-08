@@ -89,6 +89,7 @@
       'footer.contact.label': 'Contatti',
       'footer.brand.desc':    'Specialisti in scenografie, allestimenti espositivi e installazioni scenotecniche per eventi culturali, produzioni televisive e brand activation.',
       'footer.copyright':     '&copy; 2026 Cultura è... S.r.l. — Tutti i diritti riservati &nbsp;|&nbsp; P.IVA e CF: 16732861006',
+      'footer.addresses':     'Sede Legale: Via Georges Sorel 7 · 00177 Roma &nbsp;·&nbsp; Sede Operativa: Via di Affogalasino 50/52 · 00148 Roma',
 
       'contact.hours.label': 'Orari',
       'contact.hours.val':   'Lun – Ven: 9:00 – 18:00<br>Sab: 9:00 – 13:00<br>Dom: chiuso',
@@ -230,6 +231,7 @@
       'footer.contact.label': 'Contact',
       'footer.brand.desc':    'Specialists in set design, exhibition installations, and scenotechnic structures for cultural events, television productions, and brand activation.',
       'footer.copyright':     '&copy; 2026 Cultura è... S.r.l. — All rights reserved &nbsp;|&nbsp; VAT: 16732861006',
+      'footer.addresses':     'Registered office: Via Georges Sorel 7 · 00177 Rome &nbsp;·&nbsp; Operational office: Via di Affogalasino 50/52 · 00148 Rome',
 
       'contact.hours.label': 'Hours',
       'contact.hours.val':   'Mon – Fri: 9:00 – 18:00<br>Sat: 9:00 – 13:00<br>Sun: closed',
