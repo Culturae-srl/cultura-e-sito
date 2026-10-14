@@ -418,7 +418,7 @@
 
       function showLbImage() {
         lbImg.src = lbImages[lbIdx];
-        lbImg.alt = lbName.textContent;
+        lbImg.alt = 'Scenografia ' + lbName.textContent + ' — Cultura è... Roma · allestimenti e installazioni scenotecniche';
         lbCounter.textContent = (lbIdx + 1) + ' / ' + lbImages.length;
         document.getElementById('lbPrev').style.display = lbImages.length > 1 ? '' : 'none';
         document.getElementById('lbNext').style.display = lbImages.length > 1 ? '' : 'none';
