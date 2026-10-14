@@ -1739,3 +1739,25 @@ footer.footer-full .footer-links ul li a:hover { color: var(--white); }
   color: var(--red);
   text-decoration: underline;
 }
+/* ── COOKIE BANNER ── */
+#cookie-banner{position:fixed;bottom:0;left:0;right:0;background:#1a1a1a;color:#fff;padding:20px 32px;display:flex;align-items:center;justify-content:space-between;gap:24px;z-index:9999;box-shadow:0 -4px 24px rgba(0,0,0,.3);flex-wrap:wrap;transform:translateY(100%);transition:transform .4s ease;}
+#cookie-banner.visible{transform:translateY(0);}
+#cookie-banner p{margin:0;font-size:.88rem;line-height:1.5;flex:1;min-width:200px;}
+#cookie-banner a{color:#e63946;text-decoration:underline;}
+.cookie-btn-row{display:flex;gap:12px;flex-shrink:0;}
+#cookie-accept{background:#e63946;color:#fff;border:none;padding:10px 24px;font-size:.88rem;font-weight:600;cursor:pointer;border-radius:2px;transition:background .2s;}
+#cookie-accept:hover{background:#c1121f;}
+#cookie-decline{background:transparent;color:#aaa;border:1px solid #444;padding:10px 24px;font-size:.88rem;cursor:pointer;border-radius:2px;transition:border-color .2s,color .2s;}
+#cookie-decline:hover{border-color:#aaa;color:#fff;}
+@media(max-width:600px){#cookie-banner{flex-direction:column;align-items:flex-start;padding:20px;}.cookie-btn-row{width:100
+/* cookie banner */
+#cookie-banner{position:fixed;bottom:0;left:0;right:0;background:#1a1a1a;color:#fff;padding:20px 32px;display:flex;align-items:center;justify-content:space-between;gap:24px;z-index:9999;flex-wrap:wrap;transform:translateY(100%);transition:transform .4s ease;}
+#cookie-banner.visible{transform:translateY(0);}
+#cookie-banner p{margin:0;font-size:.88rem;line-height:1.5;flex:1;min-width:200px;}
+#cookie-banner a{color:#e63946;text-decoration:underline;}
+.cookie-btn-row{display:flex;gap:12px;flex-shrink:0;}
+#cookie-accept{background:#e63946;color:#fff;border:none;padding:10px 24px;font-size:.88rem;font-weight:600;cursor:pointer;border-radius:2px;transition:background .2s;}
+#cookie-accept:hover{background:#c1121f;}
+#cookie-decline{background:transparent;color:#aaa;border:1px solid #444;padding:10px 24px;font-size:.88rem;cursor:pointer;border-radius:2px;}
+#cookie-decline:hover{border-color:#aaa;color:#fff;}
+@media(max-width:600px){#cookie-banner{flex-direction:column;align-items:flex-start;padding:20px;}.cookie-btn-row{width:100%;}#cookie-accept,#cookie-decline{flex:1;text-align:center;}}

@@ -501,3 +501,13 @@
   }
 
 }());
+
+/* cookie banner */
+(function(){
+  if(localStorage.getItem("cookieConsent"))return;
+  var b=document.getElementById("cookie-banner");
+  if(!b)return;
+  setTimeout(function(){b.classList.add("visible");},800);
+  document.getElementById("cookie-accept").addEventListener("click",function(){localStorage.setItem("cookieConsent","accepted");b.classList.remove("visible");});
+  document.getElementById("cookie-decline").addEventListener("click",function(){localStorage.setItem("cookieConsent","declined");b.classList.remove("visible");});
+}());
