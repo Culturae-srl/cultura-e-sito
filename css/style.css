@@ -1761,3 +1761,33 @@ footer.footer-full .footer-links ul li a:hover { color: var(--white); }
 #cookie-decline{background:transparent;color:#aaa;border:1px solid #444;padding:10px 24px;font-size:.88rem;cursor:pointer;border-radius:2px;}
 #cookie-decline:hover{border-color:#aaa;color:#fff;}
 @media(max-width:600px){#cookie-banner{flex-direction:column;align-items:flex-start;padding:20px;}.cookie-btn-row{width:100%;}#cookie-accept,#cookie-decline{flex:1;text-align:center;}}
+
+
+/* ── SCROLL ANIMATIONS ── */
+.fade-in {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+.fade-in-left {
+  opacity: 0;
+  transform: translateX(-30px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.fade-in-left.visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+.fade-in-right {
+  opacity: 0;
+  transform: translateX(30px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.fade-in-right.visible {
+  opacity: 1;
+  transform: translateX(0);
+}

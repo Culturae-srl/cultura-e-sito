@@ -511,3 +511,19 @@
   document.getElementById("cookie-accept").addEventListener("click",function(){localStorage.setItem("cookieConsent","accepted");b.classList.remove("visible");});
   document.getElementById("cookie-decline").addEventListener("click",function(){localStorage.setItem("cookieConsent","declined");b.classList.remove("visible");});
 }());
+
+
+/* ── SCROLL FADE-IN ── */
+(function() {
+  var els = document.querySelectorAll('.fade-in, .fade-in-left, .fade-in-right');
+  if (!els.length) return;
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.15 });
+  els.forEach(function(el) { observer.observe(el); });
+}());

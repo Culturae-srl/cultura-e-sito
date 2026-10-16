@@ -8,7 +8,10 @@
   <meta name="keywords" content="portfolio scenografie Roma, allestimenti Bulgari, scenografie Fendi, set design RAI, scenografi Roma portfolio">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://cultura-e.it/portfolio.html">
-  <link rel="icon" href="images/logos/logo.png" type="image/png">
+    <link rel="icon" type="image/x-icon" href="/images/logos/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/logos/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/logos/favicon-16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/logos/apple-touch-icon.png">
   <!-- Open Graph -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://cultura-e.it/portfolio.html">
@@ -105,7 +108,7 @@
 <!-- ─── PAGE HERO ───────────────────────────────────────────────────────── -->
 <div class="page-hero" aria-label="Intestazione pagina">
   <div class="page-hero-content">
-    <div class="section-label" data-i18n="page.portfolio.label">I Nostri Lavori</div>
+    <div class="section-label fade-in" data-i18n="page.portfolio.label">I Nostri Lavori</div>
     <h1>Portfolio<br><span class="accent">2022 — 2026</span></h1>
   </div>
 </div>
@@ -114,8 +117,8 @@
 <section id="portfolio" aria-label="Portfolio completo">
   <div class="portfolio-header">
     <div>
-      <div class="section-label" data-i18n="portfolio.label">I Nostri Lavori</div>
-      <h2 class="section-title">Portfolio</h2>
+      <div class="section-label fade-in" data-i18n="portfolio.label">I Nostri Lavori</div>
+      <h2 class="section-title fade-in">Portfolio</h2>
     </div>
     <div class="filter-row" role="group" aria-label="Filtra per anno">
       <button class="filter-btn active" data-filter="all" data-i18n="portfolio.all">Tutti</button>
@@ -131,7 +134,7 @@
 </section>
 
 <!-- ─── CTA BAND ─────────────────────────────────────────────────────────── -->
-<section class="cta-band" aria-label="Chiamata all'azione">
+<section class="cta-band fade-in" aria-label="Chiamata all'azione">
   <h2 data-i18n-html="cta.portfolio.h2">Il tuo <span class="accent">Progetto</span> è il prossimo?</h2>
   <p data-i18n="cta.portfolio.p">Contattaci per discutere la tua idea.</p>
   <div class="cta-row">
@@ -203,7 +206,7 @@ fetch('/_data/portfolio.json')
   .then(data => {
     var grid = document.getElementById('portfolioGrid');
     grid.innerHTML = data.progetti.map(function(p) {
-      return '<div class="portfolio-item" data-year="' + p.year + '" data-name="' + p.name + '" data-images=\'' + JSON.stringify(p.images) + '\'>' +
+      return '<div class="portfolio-item fade-in" data-year="' + p.year + '" data-name="' + p.name + '" data-images=\'' + JSON.stringify(p.images) + '\'>' +
         '<img src="' + p.cover + '" alt="' + (p.alt || p.name) + '" loading="lazy">' +
         '<div class="portfolio-overlay">' +
           '<div class="portfolio-year">' + p.year + '</div>' +
