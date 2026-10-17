@@ -36,7 +36,8 @@
         "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/la-citta-dei-bambini-e-dei-ragazzi-8.jpg",
         "projects/2022/la%20citta%20dei%20bambini%20e%20dei%20ragazzi/la-citta-dei-bambini-e-dei-ragazzi-9.jpg"
       ],
-      "alt": "Scenografia per La Città dei Bambini e dei Ragazzi — allestimento espositivo Roma"
+      "alt": "Scenografia per La Città dei Bambini e dei Ragazzi — allestimento espositivo Roma",
+      "subtitle": "Acquario di Genova · Scenografo Christian Taraborelli"
     },
     {
       "name": "Fendi",
@@ -50,7 +51,8 @@
         "projects/2022/Fendi/fendi-5.jpg",
         "projects/2022/Fendi/fendi-6.jpg"
       ],
-      "alt": "Scenografia e allestimento per evento Fendi — luxury brand activation Roma"
+      "alt": "Scenografia e allestimento per evento Fendi — luxury brand activation Roma",
+      "subtitle": ""
     },
     {
       "name": "Gatto con gli Stivali 2",
@@ -64,7 +66,8 @@
         "projects/2022/Gatto%20con%20gli%20Stivali%202/gatto-con-gli-stivali-2-13.jpg",
         "projects/2022/Gatto%20con%20gli%20Stivali%202/gatto-con-gli-stivali-2-14.jpg"
       ],
-      "alt": "Scenografia per Gatto con gli Stivali 2 — installazione scenotecnica evento cinema"
+      "alt": "Scenografia per Gatto con gli Stivali 2 — installazione scenotecnica evento cinema",
+      "subtitle": "CC Porta di Roma"
     },
     {
       "name": "Museo Virtuale della Musica Belliniana",
@@ -77,7 +80,8 @@
         "projects/2022/Museo%20Virtuale%20della%20Musica%20Belliniana/museo-virtuale-della-musica-belliniana-12.jpeg",
         "projects/2022/Museo%20Virtuale%20della%20Musica%20Belliniana/museo-virtuale-della-musica-belliniana-13.jpeg"
       ],
-      "alt": "Allestimento Museo Virtuale della Musica Belliniana — scenografia culturale"
+      "alt": "Allestimento Museo Virtuale della Musica Belliniana — scenografia culturale",
+      "subtitle": "Museo Belliniano, Catania · Prod. Civita Mostre e Musei"
     },
     {
       "name": "Parco Italia in Miniatura — Pinocchio",
@@ -87,7 +91,8 @@
         "projects/2022/Parco%20Italia%20in%20Miniatura%20-%20Pinocchio/parco-italia-in-miniatura-pinocchio-1.jpg",
         "projects/2022/Parco%20Italia%20in%20Miniatura%20-%20Pinocchio/parco-italia-in-miniatura-pinocchio-10.jpg"
       ],
-      "alt": "Scenografia Pinocchio per Parco Italia in Miniatura — installazione scenotecnica"
+      "alt": "Scenografia Pinocchio per Parco Italia in Miniatura — installazione scenotecnica",
+      "subtitle": "Scenografo Christian Taraborelli"
     },
     {
       "name": "Presepe Piazza di Spagna",
@@ -97,7 +102,8 @@
         "projects/2022/Presepe%20Piazza%20di%20Spagna/presepe-piazza-di-spagna-1.jpg",
         "projects/2022/Presepe%20Piazza%20di%20Spagna/presepe-piazza-di-spagna-2.jpg"
       ],
-      "alt": "Allestimento Presepe Piazza di Spagna Roma — scenografia natalizia"
+      "alt": "Allestimento Presepe Piazza di Spagna Roma — scenografia natalizia",
+      "subtitle": ""
     },
     {
       "name": "Bulgari",
@@ -109,7 +115,8 @@
         "projects/2023/Bulgari/bulgari-3.jpg",
         "projects/2023/Bulgari/bulgari-4.jpg"
       ],
-      "alt": "Scenografia e allestimento per evento BVLGARI — luxury brand activation Roma"
+      "alt": "Scenografia e allestimento per evento BVLGARI — luxury brand activation Roma",
+      "subtitle": ""
     },
     {
       "name": "Bulldog",
@@ -121,7 +128,8 @@
         "projects/2023/Bulldog/bulldog-3.jpg",
         "projects/2023/Bulldog/bulldog-4.jpg"
       ],
-      "alt": "Allestimento scenografico per Bulldog Gin — brand activation evento"
+      "alt": "Allestimento scenografico per Bulldog Gin — brand activation evento",
+      "subtitle": ""
     },
     {
       "name": "Presentazione Film — Prendi il Volo",
@@ -133,7 +141,8 @@
         "projects/2023/Presentazione%20Film%20-%20Prendi%20il%20Volo/presentazione-film-prendi-il-volo-3.jpg",
         "projects/2023/Presentazione%20Film%20-%20Prendi%20il%20Volo/presentazione-film-prendi-il-volo-4.jpg"
       ],
-      "alt": "Scenografia per presentazione film Prendi il Volo — allestimento cinematografico Roma"
+      "alt": "Scenografia per presentazione film Prendi il Volo — allestimento cinematografico Roma",
+      "subtitle": ""
     },
     {
       "name": "Produzione Karaoke",
@@ -174,7 +183,8 @@
         "projects/2023/Produzione%20Karaoke/produzione-karaoke-40.jpg",
         "projects/2023/Produzione%20Karaoke/produzione-karaoke-41.jpg"
       ],
-      "alt": "Scenografia produzione Karaoke — set design televisivo Roma"
+      "alt": "Scenografia produzione Karaoke — set design televisivo Roma",
+      "subtitle": "Scenografo Francesco Mari"
     },
     {
       "name": "La TV delle Ragazze RAI",
@@ -212,7 +222,8 @@
         "projects/2024/La%20TV%20delle%20Ragazze%20RAI/la-tv-delle-ragazze-rai-37.jpg",
         "projects/2024/La%20TV%20delle%20Ragazze%20RAI/la-tv-delle-ragazze-rai-38.jpg"
       ],
-      "alt": "Scenografia La TV delle Ragazze RAI — set design produzione televisiva RAI Roma"
+      "alt": "Scenografia La TV delle Ragazze RAI — set design produzione televisiva RAI Roma",
+      "subtitle": "RAI · Scenografo Marco Calzavara"
     },
     {
       "name": "New Balance",
@@ -224,7 +235,8 @@
         "projects/2024/New%20Balance/new-balance-3.jpg",
         "projects/2024/New%20Balance/new-balance-4.jpg"
       ],
-      "alt": "Allestimento scenografico New Balance — brand activation sportswear Roma"
+      "alt": "Allestimento scenografico New Balance — brand activation sportswear Roma",
+      "subtitle": ""
     },
     {
       "name": "Peroni",
@@ -236,7 +248,8 @@
         "projects/2024/Peroni/peroni-3.jpg",
         "projects/2024/Peroni/peroni-4.jpg"
       ],
-      "alt": "Scenografia per evento Peroni — allestimento brand activation birra Roma"
+      "alt": "Scenografia per evento Peroni — allestimento brand activation birra Roma",
+      "subtitle": ""
     },
     {
       "name": "RAFFO",
@@ -249,7 +262,8 @@
         "projects/2024/RAFFO/raffo-4.jpg",
         "projects/2024/RAFFO/raffo-5.jpg"
       ],
-      "alt": "Allestimento scenografico RAFFO — brand activation evento Roma"
+      "alt": "Allestimento scenografico RAFFO — brand activation evento Roma",
+      "subtitle": ""
     },
     {
       "name": "Teatrino Topo Gigio RAI",
@@ -264,7 +278,8 @@
         "projects/2024/Teatrino%20Topo%20Gigio%20RAI/teatrino-topo-gigio-rai-6.jpg",
         "projects/2024/Teatrino%20Topo%20Gigio%20RAI/teatrino-topo-gigio-rai-7.jpg"
       ],
-      "alt": "Scenografia Teatrino Topo Gigio RAI — set design produzione televisiva RAI"
+      "alt": "Scenografia Teatrino Topo Gigio RAI — set design produzione televisiva RAI",
+      "subtitle": "RAI · Scenografo Maurizio Zecchin"
     },
     {
       "name": "The Golden Bachelor",
@@ -277,7 +292,8 @@
         "projects/2024/The%20Golden%20Bachelor/the-golden-bachelor-12.jpeg",
         "projects/2024/The%20Golden%20Bachelor/the-golden-bachelor-13.jpeg"
       ],
-      "alt": "Scenografia The Golden Bachelor — allestimento produzione televisiva Roma"
+      "alt": "Scenografia The Golden Bachelor — allestimento produzione televisiva Roma",
+      "subtitle": "Prod. Freemantle"
     },
     {
       "name": "Bello di Mamma — Enrico Brignano",
@@ -294,7 +310,8 @@
         "projects/2025/Bello%20di%20Mamma%20-%20Enrico%20Brignano/bello-di-mamma-enrico-brignano-8.jpg",
         "projects/2025/Bello%20di%20Mamma%20-%20Enrico%20Brignano/bello-di-mamma-enrico-brignano-9.jpg"
       ],
-      "alt": "Scenografia Bello di Mamma con Enrico Brignano — set design spettacolo teatrale"
+      "alt": "Scenografia Bello di Mamma con Enrico Brignano — set design spettacolo teatrale",
+      "subtitle": "Spettacolo teatrale · Scenografo Marco Calzavara"
     },
     {
       "name": "In & Out",
@@ -308,7 +325,8 @@
         "projects/2025/In%20%26%20Out/in-e-out-13.jpg",
         "projects/2025/In%20%26%20Out/in-e-out-14.jpg"
       ],
-      "alt": "Allestimento scenografico In & Out — installazione scenotecnica Roma"
+      "alt": "Allestimento scenografico In & Out — installazione scenotecnica Roma",
+      "subtitle": "Prod. Stand By Me · Scenografo Marco Calzavara"
     },
     {
       "name": "RIP Amazon Prime",
@@ -322,7 +340,8 @@
         "projects/2025/RIP%20Amazon%20Prime/rip-amazon-prime-13.jpg",
         "projects/2025/RIP%20Amazon%20Prime/rip-amazon-prime-14.jpg"
       ],
-      "alt": "Scenografia RIP Amazon Prime — set design produzione streaming Roma"
+      "alt": "Scenografia RIP Amazon Prime — set design produzione streaming Roma",
+      "subtitle": "Amazon Prime Video"
     },
     {
       "name": "Studio Nettuno",
@@ -336,7 +355,8 @@
         "projects/2025/Studio%20Nettuno/studio-nettuno-5.jpg",
         "projects/2025/Studio%20Nettuno/studio-nettuno-6.jpg"
       ],
-      "alt": "Allestimento Studio Nettuno — scenografia studio televisivo Roma"
+      "alt": "Allestimento Studio Nettuno — scenografia studio televisivo Roma",
+      "subtitle": ""
     },
     {
       "name": "Toy Room",
@@ -350,7 +370,8 @@
         "projects/2025/Toy%20Room/toy-room-5.jpg",
         "projects/2025/Toy%20Room/toy-room-6.jpg"
       ],
-      "alt": "Scenografia Toy Room — allestimento espositivo installazione Roma"
+      "alt": "Scenografia Toy Room — allestimento espositivo installazione Roma",
+      "subtitle": "Piazza Barberini, Roma"
     },
     {
       "name": "Carrozza Western",
@@ -361,7 +382,8 @@
         "projects/2026/Carrozza%20Western/carrozza-western-2.jpg",
         "projects/2026/Carrozza%20Western/carrozza-western-3.jpeg"
       ],
-      "alt": "Scenografia Carrozza Western — installazione scenotecnica ambientazione western"
+      "alt": "Scenografia Carrozza Western — installazione scenotecnica ambientazione western",
+      "subtitle": ""
     }
   ]
 }

@@ -410,8 +410,9 @@
     var lightbox  = document.getElementById('lightbox');
     if (lightbox) {
       var lbImg     = document.getElementById('lbImg');
-      var lbName    = document.getElementById('lbName');
-      var lbYear    = document.getElementById('lbYear');
+      var lbName     = document.getElementById('lbName');
+      var lbSubtitle = document.getElementById('lbSubtitle');
+      var lbYear     = document.getElementById('lbYear');
       var lbCounter = document.getElementById('lbCounter');
       var lbImages  = [];
       var lbIdx     = 0;
@@ -428,6 +429,7 @@
         lbImages = JSON.parse(item.getAttribute('data-images'));
         lbIdx = 0;
         lbName.textContent = item.getAttribute('data-name');
+        if (lbSubtitle) lbSubtitle.textContent = item.getAttribute('data-subtitle') || '';
         lbYear.textContent = item.getAttribute('data-year');
         showLbImage();
         lightbox.classList.add('open');
